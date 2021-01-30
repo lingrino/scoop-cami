@@ -1,19 +1,19 @@
 {
-    "version": "1.0.4",
+    "version": "1.1.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/lingrino/cami/releases/download/v1.0.4/cami_1.0.4_windows_i386.zip",
+            "url": "https://github.com/lingrino/cami/releases/download/v1.1.0/cami_1.1.0_windows_i386.zip",
             "bin": [
                 "cami.exe"
             ],
-            "hash": "56fc6d25fbd37e9c3d3a675608d619ada4b910aba8cf70a782336ad182de3560"
+            "hash": "563921638363f13597652b579f04a9b4e11152e831401d9286b036464f112c1b"
         },
         "64bit": {
-            "url": "https://github.com/lingrino/cami/releases/download/v1.0.4/cami_1.0.4_windows_x86_64.zip",
+            "url": "https://github.com/lingrino/cami/releases/download/v1.1.0/cami_1.1.0_windows_x86_64.zip",
             "bin": [
                 "cami.exe"
             ],
-            "hash": "a8aa63480b236d957d552d7effa1e062441f58c1241393bb6fb8bfab9fd45651"
+            "hash": "c75264ee4a0aacc5addfd951b53cd64e7c3900bb873ce5a14990cc583842b28e"
         }
     },
     "homepage": "https://lingrino.com/",
